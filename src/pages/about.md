@@ -1,36 +1,30 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "Informacion"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Soy Estudiante de desarrollo de software me considero junior y se algunos lenguajes como html, css, python, android estudio, java entre otros.
+De igual forma soy desarrollador de custom roms para el celular Samsung Galaxy 24.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+<img class="img" src="https://raw.githubusercontent.com/VictorVasquezZT2005/PortFolio-Cloud/main/img/about/profile.jpeg">
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+<style>
+.img {
+  border-radius: 50%;
+  height: auto;
+  width: 200px;
+}
+</style>
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+Algunos de mis datos son :
 
-## Tech Stack
+- Soy salvadoreño 
+- Tengo 19 años
+- Estudio en el ITCA Zacatecoluca
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+Algunos de mis proyectos son :
 
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- Pixel Experience A24 Android 13
+- Crdroid 9.11 A24
+- One UI 6.1 Port S24 Ultra
+- One UI 6.0 Core A04e
