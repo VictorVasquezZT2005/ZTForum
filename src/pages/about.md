@@ -27,4 +27,4 @@ De igual forma soy desarrollador de custom roms para el celular Samsung Galaxy 2
 - Pixel Experience A24 Android 13
 - Crdroid 9.11 A24
 - One UI 6.1 Port S24 Ultra
-- One UI 6.0 Core A04e
+- One UI 6.0 Core Port A04e
