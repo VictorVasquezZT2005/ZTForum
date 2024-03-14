@@ -23,12 +23,26 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>ZT Forums</h1>
+      <h1>Victor Vasquez</h1>
+      <p>
+        Soy Estudiante de desarrollo de software me considero junior y se algunos lenguajes 
+        como html, css, python, android estudio, java entre otros.<br>
+        De igual forma soy desarrollador de custom roms para el celular Samsung Galaxy 24.
+      </p>
+      <p>
+        Leer el post
+        <LinkButton
+          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
+          href="https://github.com/satnaing/astro-paper#readme"
+        >
+          README
+        </LinkButton> para mas informacion.
+      </p>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links">Redes Sociales del Creador :</div>
+            <div class="social-links">Redes Sociales:</div>
             <Socials />
           </div>
         )
