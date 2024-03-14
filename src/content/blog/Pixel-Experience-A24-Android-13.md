@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: Victor Vasquez
 pubDatetime: 2024-03-13T04:58:53Z
 modDatetime: 2024-03-13T13:05:56.066Z
 title: Pixel Experience A24 Android 13
