@@ -24,20 +24,11 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <main id="main-content">
     <section id="hero">
       <h1>ZT Forums</h1>
-      <p>
-        Leer el post
-        <LinkButton
-          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> para mas informacion.
-      </p>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links">Redes Sociales:</div>
+            <div class="social-links">Redes Sociales del Creador :</div>
             <Socials />
           </div>
         )
