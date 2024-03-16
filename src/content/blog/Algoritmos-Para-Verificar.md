@@ -12,8 +12,7 @@ tags:
   - VictorVasquezZT2005
 description: Algoritmos para verificar si un numero es negativo o positivo
 ---
-<strong>Codigo</strong>
-Python
+<strong>Codigo:</strong> Python
 ```
 def check_number(number):
   """
