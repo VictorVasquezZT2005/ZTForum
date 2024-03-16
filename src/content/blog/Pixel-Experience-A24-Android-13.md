@@ -10,7 +10,7 @@ tags:
   - Samsung Galaxy A24
 description: Pixel Experience A245M Android 13 Unofficial
 ---
-<Image src="https://raw.githubusercontent.com/VictorVasquezZT2005/PortFolio-Cloud/main/img/posts/pixel-experience-13.jpg" alt="Pixel Experience 13"/>
+<Image src="https://raw.githubusercontent.com/VictorVasquezZT2005/ZTForum-Cloud/main/img/posts/pixel-experience-13.jpg" alt="Pixel Experience 13"/>
 
 ¿Qué es esto?
 PixelExperience es una ROM basada en AOSP, con aplicaciones de Google incluidas y todas las ventajas de Pixel (lanzador, fondos de pantalla, íconos, fuentes, animación de arranque)
