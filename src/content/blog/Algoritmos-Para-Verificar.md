@@ -9,6 +9,7 @@ draft: false
 tags:
   - Algoritmos
   - Numeros
+  - VictorVasquezZT2005
 description: Algoritmos para verificar si un numero es negativo o positivo
 ---
 <strong>Codigo</strong>
