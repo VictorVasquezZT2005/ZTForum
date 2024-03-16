@@ -8,6 +8,7 @@ featured: true
 draft: false
 tags:
   - Samsung Galaxy A24
+  - VictorVasquezZT2005
 description: Pixel Experience A245M Android 13 Unofficial
 ---
 <Image src="https://raw.githubusercontent.com/VictorVasquezZT2005/ZTForum-Cloud/main/img/posts/pixel-experience-13.jpg" alt="Pixel Experience 13"/>
