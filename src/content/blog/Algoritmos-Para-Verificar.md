@@ -39,8 +39,8 @@ number = float(input("Ingrese un número: "))
 result = check_number(number)
 print(result)
 ```
-<strong>Probar el Codigo</strong><br>
-<a href="https://programiz.pro/ide/python/PS25VBMFU9?utm_source=python_playground-shared-project-link">Prueba en linea</a>
+<strong>Probar el Codigo en Linea</strong><br>
+<a href="https://programiz.pro/ide/python/PS25VBMFU9?utm_source=python_playground-shared-project-link">Algoritmos Para Verificar</a>
 
 <strong>Creditos</strong>
 - <a href="https://t.me/VictorZT2005">@VictorZT2005</a>
