@@ -1,7 +1,7 @@
 ---
 author: Victor Vasquez
-pubDatetime: 2024-03-13T04:58:53Z
-modDatetime: 2024-03-13T13:05:56.066Z
+pubDatetime: 2024-03-14T20:50:00Z
+modDatetime: 2024-03-14T20:50:00Z
 title: Algoritmos Para Verificar
 slug: Algoritmos-Para-Verificar
 featured: true

@@ -1,7 +1,7 @@
 ---
 author: Victor Vasquez
-pubDatetime: 2024-03-13T04:58:53Z
-modDatetime: 2024-03-13T13:05:56.066Z
+pubDatetime: 2024-03-13T16:50:00Z
+modDatetime: 2024-03-13T16:50:00Z
 title: Pixel Experience A24 Android 13
 slug: Pixel-Experience-A24-Android-13
 featured: true
