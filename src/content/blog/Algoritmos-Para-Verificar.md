@@ -39,3 +39,6 @@ number = float(input("Ingrese un número: "))
 result = check_number(number)
 print(result)
 ```
+
+<strong>Creditos</strong>
+- <a href="https://t.me/VictorZT2005">@VictorZT2005</a>
