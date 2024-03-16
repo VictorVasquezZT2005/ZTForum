@@ -6,7 +6,7 @@ title: "Informacion"
 Soy Estudiante de desarrollo de software me considero junior y se algunos lenguajes como html, css, python, android estudio, java entre otros.
 De igual forma soy desarrollador de custom roms para el celular Samsung Galaxy 24.
 
-<img class="img" src="https://raw.githubusercontent.com/VictorVasquezZT2005/PortFolio-Cloud/main/img/about/profile.jpeg">
+<img class="img" src="https://raw.githubusercontent.com/VictorVasquezZT2005/ZTForum-Cloud/main/img/about/profile.jpeg">
 
 <style>
 .img {

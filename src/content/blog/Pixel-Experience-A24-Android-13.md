@@ -31,3 +31,6 @@ Descargar
 STOCK ROM USADA
 <br>
 <a href="https://samfw.com/firmware/SM-A245M/ZTO/A245MUBU3AWG3">A245MUBU3AWG3</a>
+
+<strong>Creditos</strong>
+- <a href="https://t.me/VictorZT2005">@VictorZT2005</a>

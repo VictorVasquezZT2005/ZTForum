@@ -13,7 +13,7 @@ description: Algoritmos para verificar si un numero es negativo o positivo
 ---
 <strong>Codigo</strong>
 Python
-"""
+```
 def check_number(number):
   """
   This function checks if a number is negative, positive, or zero.
@@ -38,4 +38,4 @@ number = float(input("Ingrese un número: "))
 # Check the number and print the result
 result = check_number(number)
 print(result)
-"""
+```
