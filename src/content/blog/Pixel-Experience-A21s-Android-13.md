@@ -33,8 +33,8 @@ STOCK ROM USADA
 <br>
 <a href="https://samfw.com/firmware/SM-A217M/ZTO/A217MUBSBDWK1">A245MUBU3AWG3</a>
 
-<strong>Creditos</strong>
-- <a href="https://t.me/VictorZT2005">@VictorZT2005</a>
-
 <strong>Tester</strong>
 - <a href="https://t.me/jaum_lite">@laum_litea</a>
+
+<strong>Creditos</strong>
+- <a href="https://t.me/VictorZT2005">@VictorZT2005</a>
