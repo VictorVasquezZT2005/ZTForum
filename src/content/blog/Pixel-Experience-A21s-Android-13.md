@@ -27,11 +27,11 @@ Basado en Android 13
 
 Descargar
 <br>
-<a href="https://github.com/VictorVasquezZT2005/PIXEL-EXPERIENCE-A217M/releases/tag/PIXEL-EXPERIENSE-13-A217M">A24</a>
+<a href="https://github.com/VictorVasquezZT2005/PIXEL-EXPERIENCE-A217M/releases/tag/PIXEL-EXPERIENSE-13-A217M">A21s</a>
 
 STOCK ROM USADA
 <br>
-<a href="https://samfw.com/firmware/SM-A217M/ZTO/A217MUBSBDWK1">A245MUBU3AWG3</a>
+<a href="https://samfw.com/firmware/SM-A217M/ZTO/A217MUBSBDWK1">A217MUBSBDWK1</a>
 
 <strong>Tester</strong>
 - <a href="https://t.me/jaum_lite">@laum_litea</a>
