@@ -15,7 +15,7 @@ let tags = getUniqueTags(posts);
 
 <Layout title={`Etiquetas | ${SITE.title}`}>
   <Header activeNav="Etiquetas" />
-  <Main pageTitle="Etiquetas" pageDesc="Etiquetas indexadas a cada post.">
+  <Main pageTitle="Etiquetas" pageDesc="Etiquetas indexadas a cada post">
     <ul>
       {tags.map(({ tag }) => <Tag {tag} size="lg" />)}
     </ul>
