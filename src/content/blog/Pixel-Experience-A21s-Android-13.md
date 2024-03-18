@@ -34,7 +34,7 @@ STOCK ROM USADA
 <a href="https://samfw.com/firmware/SM-A217M/ZTO/A217MUBSBDWK1">A217MUBSBDWK1</a>
 
 <strong>Tester</strong>
-- <a href="https://t.me/jaum_lite">@laum_litea</a>
+- <a href="https://t.me/jaum_lite">@jaum_litea</a>
 
 <strong>Creditos</strong>
 - <a href="https://t.me/VictorZT2005">@VictorZT2005</a>
