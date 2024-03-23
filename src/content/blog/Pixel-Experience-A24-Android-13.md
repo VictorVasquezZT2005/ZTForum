@@ -27,7 +27,7 @@ Basado en Android 13
 
 Descargar
 <br>
-<a href="https://github.com/VictorVasquezZT2005/PIXEL-EXPERIENCE-A245M/releases/tag/PIXEL-EXPERIENSE-13-A245M">A24</a>
+<a href="https://github.com/VictorVasquezZT2005/PIXEL-EXPERIENCE-A245M/releases/tag/PIXEL-EXPERIENCE-13-A245M">A24</a>
 
 STOCK ROM USADA
 <br>
