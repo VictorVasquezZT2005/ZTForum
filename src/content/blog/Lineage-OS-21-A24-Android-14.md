@@ -19,13 +19,8 @@ Todo el código fuente de LineageOS está disponible en el repositorio de Lineag
 Codigo:<br>
 
 ```
-* Su garantía ahora es nula.
-*
-* No soy responsable de dispositivos bloqueados, tarjetas SD muertas,
-* guerra termonuclear, o que te despidan porque falló la aplicación de alarma. Por favor
-* investigue un poco si tiene alguna inquietud sobre las funciones incluidas en esta ROM
-*antes de flashearlo! USTED elige realizar estas modificaciones y, si
-* si me señalas con el dedo por estropear tu dispositivo, me reiré de ti.
+Su garantía ahora es nula.
+No soy responsable de dispositivos bloqueados, tarjetas SD muertas, guerra termonuclear, o que te despidan porque falló la aplicación de alarma. Por favor investigue un poco si tiene alguna inquietud sobre las funciones incluidas en esta ROM antes de flashearlo! usted elige realizar estas modificaciones y, si si me señalas con el dedo por estropear tu dispositivo, me reiré de ti.
 ```
 
 
