@@ -16,6 +16,7 @@ description: Lineage OS 21 A24 Android 14 Unofficial
 LineageOS es una distribución de firmware de posventa gratuita, creada por la comunidad, de Android 14.0, que está diseñada para aumentar el rendimiento y la confiabilidad con respecto a Android estándar para su dispositivo.
 LineageOS se basa en el Proyecto de código abierto de Android con contribuciones adicionales de muchas personas dentro de la comunidad de Android. Se puede utilizar sin necesidad de tener instalada ninguna aplicación de Google. A continuación se vincula un paquete que proviene de otro proyecto de Android que restaura las partes de Google. LineageOS todavía incluye varios códigos específicos de hardware, que de todos modos también se están abriendo lentamente.
 Todo el código fuente de LineageOS está disponible en el repositorio de LineageOS Github. Y si desea contribuir a LineageOS, visite Gerrit Code Review. También puede ver el registro de cambios para obtener una lista completa de cambios y funciones.<br>
+<br>
 Codigo:<br>
 
 ```
