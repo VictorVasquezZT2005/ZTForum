@@ -11,7 +11,7 @@ tags:
   - VictorVasquezZT2005
 description: Lineage OS 21 A24 Android 14 Unofficial
 ---
-<Image src="https://github.com/VictorVasquezZT2005/ZTForum-Cloud/blob/main/img/posts/lineage-os-21-a24.jpg" alt="Lineage OS 21"/>
+<Image src="https://raw.githubusercontent.com/VictorVasquezZT2005/ZTForum-Cloud/main/img/posts/lineage-os-21-a24.jpg" alt="Lineage OS 21"/>
 
 LineageOS es una distribución de firmware de posventa gratuita, creada por la comunidad, de Android 14.0, que está diseñada para aumentar el rendimiento y la confiabilidad con respecto a Android estándar para su dispositivo.
 LineageOS se basa en el Proyecto de código abierto de Android con contribuciones adicionales de muchas personas dentro de la comunidad de Android. Se puede utilizar sin necesidad de tener instalada ninguna aplicación de Google. A continuación se vincula un paquete que proviene de otro proyecto de Android que restaura las partes de Google. LineageOS todavía incluye varios códigos específicos de hardware, que de todos modos también se están abriendo lentamente.
