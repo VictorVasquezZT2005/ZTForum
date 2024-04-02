@@ -1,7 +1,7 @@
 ---
 author: Victor Vasquez
-pubDatetime: 2024-03-17T22:12:00Z
-modDatetime: 2024-03-17T22:12:00Z
+pubDatetime: 2024-04-2T22:14:00Z
+modDatetime: 2024-04-2T22:14:00Z
 title: Zed Para Windows Developer Preview 1
 slug: Zed-Para-Windows-DP1
 featured: true
