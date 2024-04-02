@@ -16,6 +16,9 @@ description: Zed Para Windows Developer Preview 1
 ¿Qué es esto?
 Zed es un IDE que proviene de Mac OS el cual su desarrollador lanzo una build para windows el cual debia ser compilado en este momento comparto mi compilacion y claro como toda developer preview tiene fallos pero es estable y rapido.
 
+Requisitos
+- 4GB RAM
+- Microsoft Visual C++
 
 Versiones de Windows Soportados
 - Windows 10
