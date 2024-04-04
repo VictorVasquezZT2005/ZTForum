@@ -13,7 +13,7 @@ description: Pixel Experience A217M Android 13 Unofficial
 ---
 <Image src="https://raw.githubusercontent.com/VictorVasquezZT2005/ZTForum-Cloud/main/img/posts/pixel-experience-13-a21s.jpg" alt="Pixel Experience 13"/>
 
-¿Qué es esto?
+¿Qué es esto? <br>
 PixelExperience es una ROM basada en AOSP, con aplicaciones de Google incluidas y todas las ventajas de Pixel (lanzador, fondos de pantalla, íconos, fuentes, animación de arranque)
 
 Nuestra misión es ofrecer la máxima estabilidad y seguridad posible, junto con características esenciales y útiles para el correcto funcionamiento del dispositivo.

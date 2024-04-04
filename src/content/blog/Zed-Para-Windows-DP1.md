@@ -7,14 +7,14 @@ slug: Zed-Para-Windows-DP1
 featured: true
 draft: false
 tags:
-  - IDE [Entorno de desarrollo integrado]
+  - Editor de Codigo
   - VictorVasquezZT2005
 description: Zed Para Windows Developer Preview 1
 ---
 <Image src="https://raw.githubusercontent.com/VictorVasquezZT2005/ZTForum-Cloud/main/img/posts/zed.jpg" alt="Zed Para Windows"/>
 
-¿Qué es esto?
-Zed es un IDE que proviene de Mac OS el cual su desarrollador lanzo una build para windows el cual debia ser compilado en este momento comparto mi compilacion y claro como toda developer preview tiene fallos pero es estable y rapido.
+¿Qué es esto? <br>
+Zed es un editor de codigo que proviene de Mac OS el cual su desarrollador lanzo una build para windows el cual debia ser compilado en este momento comparto mi compilacion y claro como toda developer preview tiene fallos pero es estable y rapido.
 
 Requisitos
 - 4GB RAM
